@@ -17,6 +17,6 @@
 
 <h3 align="left">📫 How to reach me?</h3>
 
-- [LinkedIn](https://www.linkedin.com/in/josecarlosfilho/)
+- [LinkedIn](https://www.linkedin.com/in/josecarlosfilho/?locale=en_US)
 
 > If you have some time, please, read some of [my articles](https://www.linkedin.com/in/josecarlosfilho/detail/recent-activity/posts/) on LinkedIn. Thanks 😉
