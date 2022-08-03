@@ -3,8 +3,8 @@
 
 <p><strong>I'm a web and mobile software developer with 8 years of experience and I consider clean code practice a rule of thumb to a professional in my position. I
 have experience playing the role of tech lead being responsible for code quality assurance, technical support and guidance to other developers, and sometimes I designed project architectures.</strong></p>
-<p><strong>Currently, I work as a DevOps Developer, and I'm responsible for: Build pipelines, monitor the environment's health, and support the development team to achieve a fast and reliable integration and deployment.</strong></p>
-<p><strong>But I also work as a software developer in some projects depending on his needs.</strong></p>
+<p><strong>Recently, I work as a DevOps Developer, and I was responsible for: Build pipelines, monitor the environment's health, and support the development team to achieve a fast and reliable integration and deployment.</strong></p>
+<p><strong>Currently, I work as a software engineer focused on NodeJS applications.</strong></p>
 
 
 <h3 align="left">💻 Technologies and tools that I have experience</h3>
