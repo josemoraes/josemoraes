@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Jose Moraes</h1>
 <h3 align="center">and You're welcome here</h3>
 
-<p><strong>I'm a web and mobile software developer with 8 years of experience and I consider clean code practice a rule of thumb to a professional in my position. I
+<p><strong>I'm a web and mobile software developer with 10 years of experience and I consider clean code practice a rule of thumb to a professional in my position. I
 have experience playing the role of tech lead being responsible for code quality assurance, technical support and guidance to other developers, and sometimes I designed project architectures.</strong></p>
 <p><strong>Recently, I worked as a DevOps Developer, and I was responsible for: Build pipelines, monitor the environment's health, and support the development team to achieve a fast and reliable integration and deployment.</strong></p>
 <p><strong>Currently, I work as a Software Engineer focused on NodeJS applications.</strong></p>
